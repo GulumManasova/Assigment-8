@@ -1,3 +1,8 @@
+<img width="532" alt="Image" src="https://github.com/user-attachments/assets/bb84f6fb-b13a-4b8e-be05-efd191130740" />
+
+
+
+
 # Employee Management System
 This is a Python-based application for managing employee records in a relational database. It uses SQLite for database operations and implements CRUD (Create, Read, Update, Delete) functionality.
 
