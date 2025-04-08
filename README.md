@@ -1,3 +1,6 @@
+## sample input/output
+## CRUD
+
 <img width="532" alt="Image" src="https://github.com/user-attachments/assets/a6604889-a401-47d5-b15b-5b5d63c0c0cb" />
 
 
